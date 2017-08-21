@@ -1,15 +1,15 @@
 //
-//  testTests.swift
-//  testTests
+//  ServerTestTests.swift
+//  ServerTestTests
 //
 //  Created by Ed Salter on 8/21/17.
 //  Copyright © 2017 Ed Salter. All rights reserved.
 //
 
 import XCTest
-@testable import test
+@testable import ServerTest
 
-class testTests: XCTestCase {
+class ServerTestTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

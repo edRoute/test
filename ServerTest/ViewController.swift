@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  test
+//  ServerTest
 //
 //  Created by Ed Salter on 8/21/17.
 //  Copyright © 2017 Ed Salter. All rights reserved.
@@ -9,11 +9,11 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    var testString = String()
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-print("test")
-        
+        testString = "hi"
     }
 
     override func didReceiveMemoryWarning() {

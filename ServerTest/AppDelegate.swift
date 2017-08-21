@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  test
+//  ServerTest
 //
 //  Created by Ed Salter on 8/21/17.
 //  Copyright © 2017 Ed Salter. All rights reserved.
