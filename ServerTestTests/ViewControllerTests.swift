@@ -15,6 +15,7 @@ class ViewControllerTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
+        viewController.testString = ""
         viewController = ViewController()
     }
     
